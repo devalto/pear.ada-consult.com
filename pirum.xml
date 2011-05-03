@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<server>
+	<name>pear.ada-consult.com</name>
+	<summary>ADA Consultants PEAR channel</summary>
+	<alias>INeedBackup</alias>
+	<url>http://pear.ada-consult.com/</url>
+</server>

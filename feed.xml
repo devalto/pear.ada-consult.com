@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.ada-consult.com/">
+    <title>ADA Consultants PEAR channel Latest Releases</title>
+    <link href="http://pear.ada-consult.com/" />
+    <author>
+        <name>http://pear.ada-consult.com/</name>
+    </author>
+
+
+</feed>
