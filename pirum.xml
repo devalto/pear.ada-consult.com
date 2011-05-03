@@ -2,6 +2,6 @@
 <server>
 	<name>pear.ada-consult.com</name>
 	<summary>ADA Consultants PEAR channel</summary>
-	<alias>INeedBackup</alias>
-	<url>http://pear.ada-consult.com/</url>
+	<alias>ada</alias>
+	<url>http://pear.ada-consult.com</url>
 </server>
