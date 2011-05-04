@@ -6,5 +6,16 @@
         <name>http://pear.ada-consult.com</name>
     </author>
 
-
+    <entry>
+        <title>INeedBackup 0.0.1 (alpha)</title>
+        <link href="http://pear.ada-consult.com/get/INeedBackup-0.0.1.tgz" />
+        <id>INeedBackup-0.0.1</id>
+        <author>
+            <name>cidsphere</name>
+        </author>
+        <updated>2011-05-04T09:36:22-04:00</updated>
+        <content>
+            I need backup is a tool that takes backup of a database and organize the SQL files in a stack for future restore.
+        </content>
+    </entry>
 </feed>
