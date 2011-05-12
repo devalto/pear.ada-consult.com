@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.0" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>WhatHaveChanged</name>
+ <channel>pear.ada-consult.com</channel>
+ <summary>What have changed is a tool that diplays changes between two directories.</summary>
+ <description>What have changed is a tool that diplays changes between two directories. It displays changed with an output formated à-la Subversion</description>
+ <lead>
+  <name>Sylvain Filteau</name>
+  <user>cidsphere</user>
+  <email>cidsphere@gmail.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-05-12</date>
+ <time>10:05:56</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>alpha</release>
+  <api>alpha</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="d9a90f09c2f8ca6aeed7b8236db69553" name="what-have-changed.php" role="script" />
+   <file baseinstalldir="/" md5sum="7572d6eb84a4a3ed52f8c61769c8faf6" name="WHC/Compare/Strategy/CallbackStrategy.php" role="php" />
+   <file baseinstalldir="/" md5sum="8910ddc37998d27cc49ba8d408c4c901" name="WHC/Compare/Strategy/FileMtimeStrategy.php" role="php" />
+   <file baseinstalldir="/" md5sum="d5d3db7667ebdce7fbdaaa7517d64ec2" name="WHC/Compare/Strategy/Md5Strategy.php" role="php" />
+   <file baseinstalldir="/" md5sum="7d7ca542cf13e7fd2a8e166f788c7a52" name="WHC/Compare/DirectoryCompare.php" role="php" />
+   <file baseinstalldir="/" md5sum="56c4ee45a7dd2440f5671a14076acaf7" name="WHC/Compare/FileCompareStrategy.php" role="php" />
+   <file baseinstalldir="/" md5sum="dbf122f602a9713b693a465cc1e3083f" name="WHC/Iterator/PathNameFilterIterator.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+ <changelog>
+  <release>
+   <version>
+    <release>0.0.1</release>
+    <api>0.0.1</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2011-05-12</date>
+   <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+   <notes>
+-
+   </notes>
+  </release>
+ </changelog>
+</package>

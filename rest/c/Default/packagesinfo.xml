@@ -24,5 +24,29 @@
             <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:1:"5";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}}}</d>
         </deps>
 
+    </pi>    <pi>
+        <p>
+            <n>WhatHaveChanged</n>
+            <c>pear.ada-consult.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>BSD Style</l>
+            <s>What have changed is a tool that diplays changes between two directories.</s>
+            <d>What have changed is a tool that diplays changes between two directories. It displays changed with an output formated à-la Subversion</d>
+            <r xlink:href="/rest/r/whathavechanged" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.0.1</v>
+                <s>alpha</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:1:"5";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}}}</d>
+        </deps>
+
     </pi>
 </f>
