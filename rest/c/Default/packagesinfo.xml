@@ -26,6 +26,30 @@
 
     </pi>    <pi>
         <p>
+            <n>PhingTasks</n>
+            <c>pear.ada-consult.com</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>BSD Style</l>
+            <s>Phing tasks used at ADA Consultants</s>
+            <d>Collection of Phing tasks used to create build file at ADA Consultants Inc.</d>
+            <r xlink:href="/rest/r/phingtasks" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.0.1</v>
+                <s>alpha</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:1:"5";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}s:7:"package";a:3:{s:4:"name";s:15:"WhatHaveChanged";s:7:"channel";s:20:"pear.ada-consult.com";s:3:"min";s:5:"0.0.1";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>WhatHaveChanged</n>
             <c>pear.ada-consult.com</c>
             <ca xlink:href="/rest/c/Default">Default</ca>

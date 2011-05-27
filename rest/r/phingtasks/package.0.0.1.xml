@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.2" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>PhingTasks</name>
+ <channel>pear.ada-consult.com</channel>
+ <summary>Phing tasks used at ADA Consultants</summary>
+ <description>Collection of Phing tasks used to create build file at ADA Consultants Inc.</description>
+ <lead>
+  <name>Sylvain Filteau</name>
+  <user>cidsphere</user>
+  <email>cidsphere@gmail.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-05-27</date>
+ <time>11:40:19</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>alpha</release>
+  <api>alpha</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="1028e9016c45748fae769020966bb79a" name="ADA/Amazon/Authorization.php" role="php" />
+   <file baseinstalldir="/" md5sum="f364f6d3a571e206e91a58cb7da2c1e6" name="ADA/Amazon/Cloudfront.php" role="php" />
+   <file baseinstalldir="/" md5sum="0095d53402d61cdd6d4ff89f700f2a08" name="ADA/Phing/Task/CloudfrontCreateTask.php" role="php" />
+   <file baseinstalldir="/" md5sum="820b5b3b285b2ce6c5359c9e0e990fc3" name="ADA/Phing/Task/CloudfrontInvalidateStatusTask.php" role="php" />
+   <file baseinstalldir="/" md5sum="aae6cf11aa23e0c4d678faf78ed2fdd9" name="ADA/Phing/Task/CloudfrontInvalidateTask.php" role="php" />
+   <file baseinstalldir="/" md5sum="7ced452f7a311160ffbd5839723ff100" name="ADA/Phing/Task/WhatHaveChangedTask.php" role="php" />
+   <file baseinstalldir="/" md5sum="9c681256db7de02c45000f0305304331" name="ADA/Phing/Type/Origin.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+   <package>
+    <name>WhatHaveChanged</name>
+    <channel>pear.ada-consult.com</channel>
+    <min>0.0.1</min>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease />
+ <changelog>
+  <release>
+   <version>
+    <release>0.0.1</release>
+    <api>0.0.1</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2011-05-27</date>
+   <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+   <notes>
+-
+   </notes>
+  </release>
+ </changelog>
+</package>
