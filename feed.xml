@@ -18,6 +18,17 @@
             I need backup is a tool that takes backup of a database and organize the SQL files in a stack for future restore.
         </content>
     </entry>    <entry>
+        <title>PhingTasks 0.0.2 (alpha)</title>
+        <link href="http://pear.ada-consult.com/get/PhingTasks-0.0.2.tgz" />
+        <id>PhingTasks-0.0.2</id>
+        <author>
+            <name>cidsphere</name>
+        </author>
+        <updated>2011-05-31T16:24:52-04:00</updated>
+        <content>
+            Collection of Phing tasks used to create build file at ADA Consultants Inc.
+        </content>
+    </entry>    <entry>
         <title>PhingTasks 0.0.1 (alpha)</title>
         <link href="http://pear.ada-consult.com/get/PhingTasks-0.0.1.tgz" />
         <id>PhingTasks-0.0.1</id>
