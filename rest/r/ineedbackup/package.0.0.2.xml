@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.2" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0     http://pear.php.net/dtd/tasks-1.0.xsd     http://pear.php.net/dtd/package-2.0     http://pear.php.net/dtd/package-2.0.xsd">
+ <name>INeedBackup</name>
+ <channel>pear.ada-consult.com</channel>
+ <summary>I need backup is a tool that takes backup of a database.</summary>
+ <description>I need backup is a tool that takes backup of a database and organize the SQL files in a stack for future restore.</description>
+ <lead>
+  <name>Sylvain Filteau</name>
+  <user>cidsphere</user>
+  <email>cidsphere@gmail.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-07-27</date>
+ <time>14:54:38</time>
+ <version>
+  <release>0.0.2</release>
+  <api>0.0.2</api>
+ </version>
+ <stability>
+  <release>alpha</release>
+  <api>alpha</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="1b2dbe909a3ff0d9cc4c62c6d98ce1e5" name="need-backup.php" role="script" />
+   <file baseinstalldir="/" md5sum="e2cefc42ea73793b04a19d88d27e054e" name="need-restore.php" role="script" />
+   <file baseinstalldir="/" md5sum="84f77428eb62c6675ffb08f087fa4497" name="INB/ConfigManager.php" role="php" />
+   <file baseinstalldir="/" md5sum="5ba66df13174a30d62786f7b1b335439" name="INB/Shell.php" role="php" />
+   <file baseinstalldir="/" md5sum="d430993129068079a119c1586a341cda" name="INB/Command/ArgumentException.php" role="php" />
+   <file baseinstalldir="/" md5sum="e5c31cbda0d255f0516c49daffa633ed" name="INB/Command/Backup.php" role="php" />
+   <file baseinstalldir="/" md5sum="55876bb66af659abe9c064061056b1a7" name="INB/Command/CommandAbstract.php" role="php" />
+   <file baseinstalldir="/" md5sum="4b59ef5ebe3f4327a1d1b7e501af5ce9" name="INB/Command/ConfigurationException.php" role="php" />
+   <file baseinstalldir="/" md5sum="e7e684ccf7fcaa548fe5f10cfe5a4272" name="INB/Command/Restore.php" role="php" />
+   <file baseinstalldir="/" md5sum="a6e1a84d378eab1b84e3a9de95083a3b" name="INB/Command/StorageException.php" role="php" />
+   <file baseinstalldir="/" md5sum="648ae8d10debf390961a4101e00f7646" name="INB/Database/Database.php" role="php" />
+   <file baseinstalldir="/" md5sum="fa33ba021c46448b5d9b06e63553b682" name="INB/Database/Element.php" role="php" />
+   <file baseinstalldir="/" md5sum="813c832fef1932165596570e65e33df4" name="INB/Database/Stack.php" role="php" />
+   <file baseinstalldir="/" md5sum="405c2b86140787ae22623f96cf5c1be0" name="INB/Database/Adapter/AdapterAbstract.php" role="php" />
+   <file baseinstalldir="/" md5sum="cb559c620729fd19d27509c20de3efc2" name="INB/Database/Adapter/AdapterFactory.php" role="php" />
+   <file baseinstalldir="/" md5sum="02a1a1f19d479a711740a539e70595cc" name="INB/Database/Adapter/Json.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease />
+ <changelog>
+  <release>
+   <version>
+    <release>0.0.2</release>
+    <api>0.0.2</api>
+   </version>
+   <stability>
+    <release>alpha</release>
+    <api>alpha</api>
+   </stability>
+   <date>2011-07-27</date>
+   <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+   <notes>
+-
+   </notes>
+  </release>
+ </changelog>
+</package>

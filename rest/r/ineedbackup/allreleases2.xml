@@ -3,6 +3,11 @@
     <p>INeedBackup</p>
     <c>pear.ada-consult.com</c>
     <r>
+        <v>0.0.2</v>
+        <s>alpha</s>
+        <m>5</m>
+    </r>
+    <r>
         <v>0.0.1</v>
         <s>alpha</s>
         <m>5</m>
