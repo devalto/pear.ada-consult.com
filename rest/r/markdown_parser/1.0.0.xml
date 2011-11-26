@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/markdown_parser">Markdown_Parser</p>
+    <c>pear.ada-consult.com</c>
+    <v>1.0.0</v>
+    <st>stable</st>
+    <l>BSD Style</l>
+    <m>cidsphere</m>
+    <s>Parse markdown file and render to HTML.</s>
+    <d>Markdown_Parser parses markdown formated string and render it to HTML. For more info about Markdown syntax, see http://daringfireball.net/projects/markdown/syntax</d>
+    <da>2011-11-26 11:53:21</da>
+    <n>
+-
+ </n>
+    <f>24547</f>
+    <g>http://pear.ada-consult.com/get/Markdown_Parser-1.0.0</g>
+    <x xlink:href="package.1.0.0.xml"/>
+</r>

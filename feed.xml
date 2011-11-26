@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://pear.ada-consult.com">
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://pear.ada-consult.com</id>
+    <updated>2011-11-26T12:05:26-05:00</updated>
     <title>ADA Consultants PEAR channel Latest Releases</title>
-    <link href="http://pear.ada-consult.com" />
+    <link href="http://pear.ada-consult.com/feed.xml" rel="self" />
     <author>
         <name>http://pear.ada-consult.com</name>
     </author>
@@ -9,57 +11,80 @@
     <entry>
         <title>INeedBackup 0.0.2 (alpha)</title>
         <link href="http://pear.ada-consult.com/get/INeedBackup-0.0.2.tgz" />
-        <id>INeedBackup-0.0.2</id>
+        <id>http://pear.ada-consult.com/get/INeedBackup-0.0.2.tgz</id>
         <author>
             <name>cidsphere</name>
         </author>
         <updated>2011-07-27T14:54:38-04:00</updated>
         <content>
-            I need backup is a tool that takes backup of a database and organize the SQL files in a stack for future restore.
+            
+-
+ 
         </content>
     </entry>    <entry>
         <title>INeedBackup 0.0.1 (alpha)</title>
         <link href="http://pear.ada-consult.com/get/INeedBackup-0.0.1.tgz" />
-        <id>INeedBackup-0.0.1</id>
+        <id>http://pear.ada-consult.com/get/INeedBackup-0.0.1.tgz</id>
         <author>
             <name>cidsphere</name>
         </author>
         <updated>2011-05-04T09:36:22-04:00</updated>
         <content>
-            I need backup is a tool that takes backup of a database and organize the SQL files in a stack for future restore.
+            
+First release
+ 
+        </content>
+    </entry>    <entry>
+        <title>Markdown_Parser 1.0.0 (stable)</title>
+        <link href="http://pear.ada-consult.com/get/Markdown_Parser-1.0.0.tgz" />
+        <id>http://pear.ada-consult.com/get/Markdown_Parser-1.0.0.tgz</id>
+        <author>
+            <name>cidsphere</name>
+        </author>
+        <updated>2011-11-26T11:53:21-05:00</updated>
+        <content>
+            
+-
+ 
         </content>
     </entry>    <entry>
         <title>PhingTasks 0.0.2 (alpha)</title>
         <link href="http://pear.ada-consult.com/get/PhingTasks-0.0.2.tgz" />
-        <id>PhingTasks-0.0.2</id>
+        <id>http://pear.ada-consult.com/get/PhingTasks-0.0.2.tgz</id>
         <author>
             <name>cidsphere</name>
         </author>
         <updated>2011-05-31T16:24:52-04:00</updated>
         <content>
-            Collection of Phing tasks used to create build file at ADA Consultants Inc.
+            
+-
+ 
         </content>
     </entry>    <entry>
         <title>PhingTasks 0.0.1 (alpha)</title>
         <link href="http://pear.ada-consult.com/get/PhingTasks-0.0.1.tgz" />
-        <id>PhingTasks-0.0.1</id>
+        <id>http://pear.ada-consult.com/get/PhingTasks-0.0.1.tgz</id>
         <author>
             <name>cidsphere</name>
         </author>
         <updated>2011-05-27T11:40:19-04:00</updated>
         <content>
-            Collection of Phing tasks used to create build file at ADA Consultants Inc.
+            
+-
+ 
         </content>
     </entry>    <entry>
         <title>WhatHaveChanged 0.0.1 (alpha)</title>
         <link href="http://pear.ada-consult.com/get/WhatHaveChanged-0.0.1.tgz" />
-        <id>WhatHaveChanged-0.0.1</id>
+        <id>http://pear.ada-consult.com/get/WhatHaveChanged-0.0.1.tgz</id>
         <author>
             <name>cidsphere</name>
         </author>
         <updated>2011-05-12T10:05:56-04:00</updated>
         <content>
-            What have changed is a tool that diplays changes between two directories. It displays changed with an output formated à-la Subversion
+            
+-
+ 
         </content>
     </entry>
 </feed>

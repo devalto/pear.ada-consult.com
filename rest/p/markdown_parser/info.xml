@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<p xmlns="http://pear.php.net/dtd/rest.package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd">
+<n>Markdown_Parser</n>
+<c>pear.ada-consult.com</c>
+<ca xlink:href="/rest/c/Default">Default</ca>
+<l>BSD Style</l>
+<s>Parse markdown file and render to HTML.</s>
+<d>Markdown_Parser parses markdown formated string and render it to HTML. For more info about Markdown syntax, see http://daringfireball.net/projects/markdown/syntax</d>
+<r xlink:href="/rest/r/markdown_parser" />
+</p>
