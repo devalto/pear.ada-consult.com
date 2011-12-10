@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.ada-consult.com</id>
-    <updated>2011-12-09T22:31:45-05:00</updated>
+    <updated>2011-12-10T16:02:18-05:00</updated>
     <title>ADA Consultants PEAR channel Latest Releases</title>
     <link href="http://pear.ada-consult.com/feed.xml" rel="self" />
     <author>
@@ -68,6 +68,19 @@ First release
             <name>cidsphere</name>
         </author>
         <updated>2011-05-27T11:40:19-04:00</updated>
+        <content>
+            
+-
+ 
+        </content>
+    </entry>    <entry>
+        <title>Refer 1.0.3 (stable)</title>
+        <link href="http://pear.ada-consult.com/get/Refer-1.0.3.tgz" />
+        <id>http://pear.ada-consult.com/get/Refer-1.0.3.tgz</id>
+        <author>
+            <name>cidsphere</name>
+        </author>
+        <updated>2011-12-10T21:01:59-05:00</updated>
         <content>
             
 -
