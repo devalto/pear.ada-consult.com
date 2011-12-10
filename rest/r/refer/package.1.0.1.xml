@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0  http://pear.php.net/dtd/tasks-1.0.xsd  http://pear.php.net/dtd/package-2.0  http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Refer</name>
+ <channel>pear.ada-consult.com</channel>
+ <summary>Builds reference guide with a collection of markdown formated file.</summary>
+ <description>Refer builds a an html reference guide out of a directory structure containing markdown formated files</description>
+ <lead>
+  <name>Sylvain Filteau</name>
+  <user>cidsphere</user>
+  <email>cidsphere@gmail.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2011-12-10</date>
+ <time>00:37:29</time>
+ <version>
+  <release>1.0.1</release>
+  <api>1.0.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file baseinstalldir="/" md5sum="3707f7b4769b0d1f5c6017551e208f23" name="refer.php" role="script" />
+   <file baseinstalldir="/" md5sum="448ec999fd707cf8bceeca2784d95af5" name="Refer/Processor.php" role="php" />
+   <file baseinstalldir="/" md5sum="61c5d9c48e03ac763dddd25bd41b51f2" name="Refer/Export/DirectoryExporter.php" role="php" />
+   <file baseinstalldir="/" md5sum="53e6520500544b4cf39dfb15bd6df159" name="Refer/PageStructure/Node.php" role="php" />
+   <file baseinstalldir="/" md5sum="d66e7ea67df76151c95db8c52c97cb81" name="Refer/PageStructure/NodeFactory.php" role="php" />
+   <file baseinstalldir="/" md5sum="e9f90bb3ae84994d134c2a9d7fff79af" name="Refer/PageStructure/Page.php" role="php" />
+   <file baseinstalldir="/" md5sum="c9793fe12ad845ef65795d858d0b9b71" name="Refer/PageStructure/PageFactory.php" role="php" />
+   <file baseinstalldir="/" md5sum="7813be0a68b7b1d4878a65506faab09e" name="Refer/Parser/MarkdownParser.php" role="php" />
+   <file baseinstalldir="/" md5sum="12c567eb662370429165e2ef00f467f6" name="Refer/Parser/ParserFactory.php" role="php" />
+   <file baseinstalldir="/" md5sum="cc80ca3ff21a0d6fdf4b6890b116f8f4" name="Refer/Parser/ParserInterface.php" role="php" />
+   <file baseinstalldir="/" md5sum="a511d0c194f6ff4d62f864611caf6210" name="Refer/Theme/Theme.php" role="php" />
+   <file baseinstalldir="/" md5sum="65bdcdb3621fb65040bac49cebb5231a" name="Refer/Configuration.php" role="php" />
+   <file baseinstalldir="/" md5sum="683371930c39dbaf1c131c37a1039071" name="themes/base/resources/css/ext-neptune.css" role="data" />
+   <file baseinstalldir="/" md5sum="79e288039295ed62c1f7b9f92162ee54" name="themes/base/app-all.js" role="data" />
+   <file baseinstalldir="/" md5sum="a039ed02e4373fa633e90f65f191f104" name="themes/base/index.html" role="data" />
+   <file baseinstalldir="/" md5sum="f8c536920e9a0d9a983a33193df35bd0" name="themes/base/ext-4.1-pr1/resources/themes/images/neptune/icons.png" role="data" />
+   <file baseinstalldir="/" md5sum="3e44f1681b33d16b2bf9ffcba909d6e6" name="themes/base/ext-4.1-pr1/resources/themes/images/neptune/grid/header-border.png" role="data" />
+   <file baseinstalldir="/" md5sum="4776f6f0b10e553ee432bc26ed72af49" name="themes/base/ext-4.1-pr1/ext-neptune.js" role="data" />
+   <file baseinstalldir="/" md5sum="ad530e8bbd0fdc1944d7c0cf9320670d" name="themes/base/ext-4.1-pr1/ext-all.js" role="data" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.4.0</min>
+   </pearinstaller>
+   <package>
+    <name>Markdown_Parser</name>
+    <channel>pear.ada-consult.com</channel>
+   </package>
+   <package>
+    <name>Zend</name>
+    <channel>zend.googlecode.com/svn</channel>
+    <min>1.11.11</min>
+   </package>
+   <package>
+    <name>Finder</name>
+    <channel>pear.symfony.com</channel>
+    <min>2.0.6</min>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease />
+ <changelog>
+  <release>
+   <version>
+    <release>1.0.1</release>
+    <api>1.0.1</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <date>2011-12-09</date>
+   <license uri="http://www.opensource.org/licenses/bsd-license.php">BSD Style</license>
+   <notes>
+-
+   </notes>
+  </release>
+ </changelog>
+</package>
