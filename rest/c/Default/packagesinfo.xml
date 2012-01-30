@@ -101,6 +101,10 @@
 
         <a>
             <r>
+                <v>1.0.4</v>
+                <s>stable</s>
+            </r>
+            <r>
                 <v>1.0.3</v>
                 <s>stable</s>
             </r>
@@ -119,6 +123,10 @@
 
         </a>
 
+        <deps>
+            <v>1.0.4</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}s:7:"package";a:3:{i:0;a:2:{s:4:"name";s:15:"Markdown_Parser";s:7:"channel";s:20:"pear.ada-consult.com";}i:1;a:3:{s:4:"name";s:4:"Zend";s:7:"channel";s:23:"zend.googlecode.com/svn";s:3:"min";s:7:"1.11.11";}i:2;a:3:{s:4:"name";s:6:"Finder";s:7:"channel";s:16:"pear.symfony.com";s:3:"min";s:5:"2.0.6";}}}}</d>
+        </deps>
         <deps>
             <v>1.0.3</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}s:7:"package";a:3:{i:0;a:2:{s:4:"name";s:15:"Markdown_Parser";s:7:"channel";s:20:"pear.ada-consult.com";}i:1;a:3:{s:4:"name";s:4:"Zend";s:7:"channel";s:23:"zend.googlecode.com/svn";s:3:"min";s:7:"1.11.11";}i:2;a:3:{s:4:"name";s:6:"Finder";s:7:"channel";s:16:"pear.symfony.com";s:3:"min";s:5:"2.0.6";}}}}</d>

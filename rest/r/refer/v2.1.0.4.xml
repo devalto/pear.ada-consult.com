@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/refer">Refer</p>
+    <c>pear.ada-consult.com</c>
+    <v>1.0.4</v>
+    <a>1.0.4</a>
+    <mp>5.3</mp>
+    <st>stable</st>
+    <l>BSD Style</l>
+    <m>cidsphere</m>
+    <s>Builds reference guide with a collection of markdown formated file.</s>
+    <d>Refer builds a an html reference guide out of a directory structure containing markdown formated files</d>
+    <da>2012-01-30 19:44:07</da>
+    <n>
+-
+ </n>
+    <f>568223</f>
+    <g>http://pear.ada-consult.com/get/Refer-1.0.4</g>
+    <x xlink:href="package.1.0.4.xml"/>
+</r>
