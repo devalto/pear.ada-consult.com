@@ -69,6 +69,10 @@
 
         <a>
             <r>
+                <v>0.0.3</v>
+                <s>alpha</s>
+            </r>
+            <r>
                 <v>0.0.2</v>
                 <s>alpha</s>
             </r>
@@ -79,6 +83,10 @@
 
         </a>
 
+        <deps>
+            <v>0.0.3</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:1:"5";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}s:7:"package";a:3:{s:4:"name";s:15:"WhatHaveChanged";s:7:"channel";s:20:"pear.ada-consult.com";s:3:"min";s:5:"0.0.1";}}}</d>
+        </deps>
         <deps>
             <v>0.0.2</v>
             <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:1:"5";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.4.0";}s:7:"package";a:3:{s:4:"name";s:15:"WhatHaveChanged";s:7:"channel";s:20:"pear.ada-consult.com";s:3:"min";s:5:"0.0.1";}}}</d>

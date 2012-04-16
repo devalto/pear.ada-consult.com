@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://pear.ada-consult.com</id>
-    <updated>2012-01-30T14:45:34-05:00</updated>
+    <updated>2012-04-16T11:10:24-04:00</updated>
     <title>ADA Consultants PEAR channel Latest Releases</title>
     <link href="http://pear.ada-consult.com/feed.xml" rel="self" />
     <author>
@@ -42,6 +42,19 @@ First release
             <name>cidsphere</name>
         </author>
         <updated>2011-11-26T11:53:21-05:00</updated>
+        <content>
+            
+-
+ 
+        </content>
+    </entry>    <entry>
+        <title>PhingTasks 0.0.3 (alpha)</title>
+        <link href="http://pear.ada-consult.com/get/PhingTasks-0.0.3.tgz" />
+        <id>http://pear.ada-consult.com/get/PhingTasks-0.0.3.tgz</id>
+        <author>
+            <name>cidsphere</name>
+        </author>
+        <updated>2012-04-16T15:05:29-04:00</updated>
         <content>
             
 -
