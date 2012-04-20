@@ -3,6 +3,10 @@
     <p>PhingTasks</p>
     <c>pear.ada-consult.com</c>
     <r>
+        <v>0.0.4</v>
+        <s>alpha</s>
+    </r>
+    <r>
         <v>0.0.3</v>
         <s>alpha</s>
     </r>
